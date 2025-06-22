@@ -1,4 +1,4 @@
-# Vladimir Izmalkov profile
+Hi, my name is Vladimir. Welcome to my GitHub profile.
 
 I'm a former software developer, now documentation engineer, passionate about docs-as-code and open source. I specialize in developer-oriented documentation.
 
@@ -98,6 +98,6 @@ The following are some of my skills that I was able to master badges for =D.
 ## Extra activities
 
 - Mentoring on ADPlist -- [Profile link](https://adplist.org/mentors/vladimir) -- I was awarded as Top 50 mentor twice: [1](https://adplist.org/community-certifications/top50-dec-2024-content-creation-d9500c), [2](https://adplist.org/community-certifications/top50-mar-2025-content-creation-d9500c) 
-- Full member of Institue of Scientific and Technical Communication ([ISTC](https://istc.org.uk/)). I'm also leading the ISTC London area group, with regular meetings online and offline at the Southbank Centre. [Join our [WhatsApp channel](https://chat.whatsapp.com/IrevevR622G0hGEySqazkg)]
+- Full member of Institue of Scientific and Technical Communication ([ISTC](https://istc.org.uk/)). I'm also leading the ISTC London area group, with regular meetings online and offline at the Southbank Centre. Join our [WhatsApp channel](https://chat.whatsapp.com/IrevevR622G0hGEySqazkg) to chat.
 
 Visitor counter: ![Visitor Count](https://profile-counter.glitch.me/{izmalk}/count.svg)
