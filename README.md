@@ -2,10 +2,10 @@ Hi, my name is Vladimir. Welcome to my GitHub profile.
 
 I'm a former software developer, now documentation engineer, passionate about docs-as-code and open source. I specialize in developer-oriented documentation.
 
-Residence: United Kingdom 🇬🇧
-Status: Fully employed
-Current occupation: Technical Author III at Canonical
-Offers: I'm not actively looking and will only consider offers with UK Skilled worker visa sponsorship
+* Residence: United Kingdom 🇬🇧
+* Status: Fully employed
+* Current occupation: Technical Author III at Canonical
+* Offers: I'm not actively looking and will only consider offers with UK Skilled worker visa sponsorship
 
 ## Contact
 
