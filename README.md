@@ -82,7 +82,6 @@ The following are some of my skills that I was able to master badges for =D.
 <p>
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka"/>
-  <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?logo=apollo-graphql"/>
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white"/>
   
 </p>
@@ -100,4 +99,5 @@ The following are some of my skills that I was able to master badges for =D.
 - Mentoring on ADPlist -- [Profile link](https://adplist.org/mentors/vladimir) -- I was awarded as Top 50 mentor twice: [1](https://adplist.org/community-certifications/top50-dec-2024-content-creation-d9500c), [2](https://adplist.org/community-certifications/top50-mar-2025-content-creation-d9500c) 
 - Full member of Institue of Scientific and Technical Communication ([ISTC](https://istc.org.uk/)). I'm also leading the ISTC London area group, with regular meetings online and offline at the Southbank Centre. Join our [WhatsApp channel](https://chat.whatsapp.com/IrevevR622G0hGEySqazkg) to chat.
 
-Visitor counter: ![Visitor Count](https://profile-counter.glitch.me/{izmalk}/count.svg)
+Visitor counter: ![](https://komarev.com/ghpvc/?username=izmalk&color=green)  
+Last reset due to counter update: 05 October 2025.
